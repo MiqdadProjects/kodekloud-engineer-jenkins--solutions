@@ -142,7 +142,7 @@ sudo systemctl status jenkins
 
 ### **Jenkins Initial Setup - Plugin Installation**
 
-![Jenkins Plugin Selection](screenshot-1)
+![Jenkins Plugin Selection] ![screenshot:1](<task 1 (1)-1.png>)
 *Screenshot 1: Jenkins Customize page showing plugin installation options*
 
 - **Option Selected**: "Install suggested plugins" 
@@ -150,7 +150,7 @@ sudo systemctl status jenkins
 
 ### **Jenkins Plugin Installation Progress**
 
-![Jenkins Plugin Installation](screenshot-2) 
+![Jenkins Plugin Installation] ![screenshot:2](<task 1 (2).png>) 
 *Screenshot 2: Jenkins plugin installation in progress*
 
 **Plugins Being Installed**:
@@ -165,7 +165,7 @@ sudo systemctl status jenkins
 
 ### **Admin User Creation**
 
-![Jenkins Admin User Setup](screenshot-3)
+![Jenkins Admin User Setup] ! ![screenshot:3](<task 1 (3)-1.png>)
 *Screenshot 3: Creating the first admin user with specified credentials*
 
 **Admin User Configuration**:
@@ -176,7 +176,7 @@ sudo systemctl status jenkins
 
 ### **Jenkins Dashboard - Installation Complete**
 
-![Jenkins Dashboard](screenshot-4)
+![Jenkins Dashboard] ! ![screenshot 4](<task 1 (4)-1.png>)
 *Screenshot 4: Successfully configured Jenkins dashboard*
 
 **Dashboard Features Visible**:
