@@ -67,7 +67,7 @@ Password: Adm!n321
 ### **🔹 Step 3: Create Apache Folder**
 
 ![New Folder Creation] ![screenshot:2](<TASK 4 (2).png>) click on new item  ,
- ![screenshot:3](<TASK 4 (3).png>) 
+ ![screenshot:3](<TASK 4 (3).png>) click on free style project.
 *Screenshot 2: New Item page showing Apache folder creation*
 
 **Folder Creation Process**:
