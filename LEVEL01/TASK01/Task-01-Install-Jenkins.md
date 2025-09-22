@@ -165,7 +165,7 @@ sudo systemctl status jenkins
 
 ### **Admin User Creation**
 
-![Jenkins Admin User Setup] ! ![screenshot:3](<task 1 (3)-1.png>)
+![Jenkins Admin User Setup] ! ![screenshot:4 ](<task 1 (3)-1.png>)
 *Screenshot 3: Creating the first admin user with specified credentials*
 
 **Admin User Configuration**:
@@ -176,7 +176,7 @@ sudo systemctl status jenkins
 
 ### **Jenkins Dashboard - Installation Complete**
 
-![Jenkins Dashboard] ! ![screenshot 4](<task 1 (4)-1.png>)
+![Jenkins Dashboard] ! ![screenshot: 4](<task 1 (4)-1.png>)
 *Screenshot 4: Successfully configured Jenkins dashboard*
 
 **Dashboard Features Visible**:
