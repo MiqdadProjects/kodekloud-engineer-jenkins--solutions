@@ -131,7 +131,7 @@ ssh natasha@ststor01
 
 ### **🔹 Step 6: Create Jenkins Job `install-packages`**
 
-![Job Creation] ![screenshot: 5](<task 5(5).png>)
+![Job Creation] ![screenshot: 5](<task 5(5).png>) ![missing screenshot:](<task 5 (missing).png>) this screenshot shows string parameter guide 
 *Screenshot 6: New job creation for install-packages*
 
 **Job Creation Process**:
@@ -166,7 +166,7 @@ ssh natasha@ststor01
 
 ### **🔹 Step 7: Test Job Execution**
 
-![Build with Parameters] ![screenshot: 6](<task 5 (6).png>)
+![Build with Parameters] ![screenshot: 6 ](<task 5 (missing 2).png>)  
 *Screenshot 7: Build with Parameters page showing nginx package build*
 
 **Build Execution Process**:
